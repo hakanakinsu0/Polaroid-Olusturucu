@@ -44,7 +44,7 @@ Bu araç sayesinde, 6x8 cm boyutunda ve 300 px/cm çözünürlükte olan fotoğr
 ## 🔧 Exe Oluşturmak için (Aşağıdaki Komutu Terminalde Çalıştırın)
 
 ```plaintext
-pyinstaller --onefile --noconsole --add-data "logo.png;." --add-data "arka_plan_dikey.png;." --add-data "arka_plan_yatay.png;." --add-data "dikey_bos.png;." --add-data "yatay_bos.png;." polaroidFotoEylul.py
+pyinstaller --onefile --noconsole --add-data "logo.png;." --add-data "arka_plan_dikey.png;." --add-data "arka_plan_yatay.png;." --add-data "dikey_bos.png;." --add-data "yatay_bos.png;." PolaroidOlusturucu.py
 ```
 
 ---
