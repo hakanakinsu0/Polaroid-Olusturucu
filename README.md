@@ -63,9 +63,6 @@ pyinstaller --onefile --noconsole --add-data "logo.png;." --add-data "arka_plan_
     └── PolaroidOlusturucu.exe
 ```
 
-
----
-
 ## 🤝 **Yazılım Geliştirici**
 
 [Hakan Akınsu - Computer Engineer](https://github.com/hakanakinsu0)
